@@ -1,0 +1,14 @@
+# Ignorar datos generados
+tareasprogresos.csv
+
+# Ignorar carpetas de Python
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones locales
+.vscode/
+.idea/
+
+# Ignorar entornos virtuales
+.venv/
+env/
